@@ -1,14 +1,19 @@
-# Server Executer
+# Gops
 
-## Usage
+Gops (Go operation) allows you to execute commands on your system through HTTP requests.
 
-With this code you can execute your commands in your system with http requests.
+## Features
+
+- **Command Execution:** Send HTTP requests to execute commands on your system.
 
 ## TODO
 
-- [ ] Authorization user before execute command
-- [ ] Feature that save common and frequent commands.
+- [ ] Authorize users before executing commands.
+- [ ] Implement a feature to save and recall common/frequent commands.
+- [ ] Add configuration file support for easy customization.
 
 ## Developer
 
 [![abolfazlalz](https://github.com/abolfazlalz.png?size=50)](https://github.com/abolfazlalz)
+
+Feel free to contribute, report issues, or reach out to the developer.
