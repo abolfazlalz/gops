@@ -9,5 +9,6 @@ func Migrate() error {
 	}
 	return db.AutoMigrate(
 		models.CommandLog{},
+		models.Bash{},
 	)
 }
